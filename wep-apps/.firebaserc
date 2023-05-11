@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanbanfire-2a08c": {
+      "hosting": {
+        "wep-apps": [
+          "kanbanfire-2a08c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanbanfire-2a08c"
+  }
+}
